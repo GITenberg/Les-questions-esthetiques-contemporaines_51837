@@ -1,5 +1,8 @@
 _repo: Les-questions-esthetiques-contemporaines_51837
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 51837-h/images/cover.jpg
 creator:
   author:
     agent_name: La Sizeranne, Robert de
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '45428'
     url: http://www.gutenberg.org/2009/agents/45428
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51837#Les-questions-esthetiques-contemporaines
 gutenberg_bookshelf: FR Beaux-Arts
 gutenberg_issued: '2016-04-23'
 gutenberg_type: Text
